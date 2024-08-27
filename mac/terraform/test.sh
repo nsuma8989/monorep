@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "hello mac terraform"
+echo "hello mac terraform script"
